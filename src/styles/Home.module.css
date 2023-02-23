@@ -5,6 +5,13 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-color: #181825;
+}
+
+.text {
+  color: white;
+  margin: auto auto;
+  text-align: center;
 }
 
 .description {
